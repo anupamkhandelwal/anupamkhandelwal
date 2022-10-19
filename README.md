@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=anupamkhandelwal)
+![](https://komarev.com/ghpvc/?username=anupamkhandelwal&color=blueviolet&style=for-the-badge)
 
 <!--
 **anupamkhandelwal/anupamkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
