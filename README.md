@@ -1,3 +1,9 @@
+Hey folks! 👋
+
+My name is Anupam. I'm a Python programming enthusiast with hands-on-experience in Robotics, Machine Learning and Statistical Analysis. Although I like to explore new things but Physics has always been my one true love.
+
+Thanks for visiting my profile!
+
 ![](https://komarev.com/ghpvc/?username=anupamkhandelwal&color=blueviolet&style=for-the-badge)
 
 <!--
